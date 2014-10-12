@@ -13,6 +13,11 @@ The analysis follows through steps:
 - Creating individual profiles that evolve from the global profile with a learning rate.
 - Identifying the power savings.
 
-The results can viewed with the ipython notebook viewer:
+The raw results can viewed with the ipython notebook viewer:
 
 http://nbviewer.ipython.org/github/svacha/power_management/blob/master/power_consumption.ipynb
+
+Slides showing overview of the results can be viewed at:
+
+https://svacha.github.io/lockitron
+
